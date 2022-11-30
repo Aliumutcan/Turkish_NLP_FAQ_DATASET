@@ -1,6 +1,6 @@
 # Turkish_NLP_FAQ_DATASET
 
-The motivation behind collect data was banchmarking for Turkih faq models.
+The motivation behind collect data was banchmarking for Turkish faq models.
 
 This dataset collected from web pages. We were search to call ""sık sorulan sorular" "sss" inurl:sss" and collect with hands
 
